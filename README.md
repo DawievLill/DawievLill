@@ -8,10 +8,10 @@ Here are some things to know about me
 - 📫 How to reach me: dvanlill@sun.ac.za 
 - ⚡ Fun fact: You pronounce my name Dah-Vee
 
-Here are some of the things I am learning
+Here are some of the things I am currently learning more about
 
-- `Julia` programming 
-- Bayesian deep learning
+- `Julia` programming
+- Scientific machine learning
 - Continous time heterogenous agent modelling
 - Analysis (real, functional) and some probability theory
 
