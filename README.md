@@ -12,7 +12,8 @@ Here are some of the things I am currently learning more about
 
 - `Julia` programming
 - Scientific machine learning
-- Continous time heterogenous agent modelling
+- Bayesian deep learning
+- Continous-time heterogeneous  agent modelling
 - Analysis (real, functional) and some probability theory
 
 <!--
