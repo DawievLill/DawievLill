@@ -6,7 +6,7 @@ Here are some things to know about me
 - 👯 I’m looking to collaborate on estimation and solution methods for DSGE models in `Julia`
 - 🤔 I’m looking for help with deep learning in macroeconomics
 - 📫 How to reach me: dvanlill@sun.ac.za 
-- ⚡ Fun fact: You pronounce my name Dah-Vee
+- ⚡ Fun fact: You pronounce my name Dah-Vee Fun Lill
 
 Here are some of the things I am currently learning more about
 
