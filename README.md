@@ -13,6 +13,7 @@ Here are some of the things I am currently learning more about
 - `Julia` programming
 - Scientific machine learning
 - Continous-time heterogeneous  agent modelling
+- Numerical linear algebra
 - Analysis (real, functional) and some probability theory
 
 <!--
