@@ -9,9 +9,9 @@ Here are some things to know about me
 
 Here are some of the things I am currently learning more about
 
-- `Julia` programming
+- `Julia` and `python`
 - Scientific machine learning
-- Continous-time heterogeneous  agent modelling
+- Continous-time heterogeneous agent modelling
 - Numerical linear algebra
 - Analysis (real, functional) and some probability theory
 
