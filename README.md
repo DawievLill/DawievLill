@@ -12,7 +12,7 @@ Here are some of the things I am currently learning more about
 - `Julia` and `python`
 - Scientific machine learning
 - Continous-time heterogeneous agent modelling
-- Markov Chain Monte Carlo methods
+- Markov chain Monte Carlo methods
 
 <!--
 **DawievLill/DawievLill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
