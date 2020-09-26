@@ -12,8 +12,7 @@ Here are some of the things I am currently learning more about
 - `Julia` and `python`
 - Scientific machine learning
 - Continous-time heterogeneous agent modelling
-- Numerical linear algebra
-- Analysis (real, functional) and some probability theory
+- Markov Chain Monte Carlo methods
 
 <!--
 **DawievLill/DawievLill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
