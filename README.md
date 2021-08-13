@@ -13,6 +13,7 @@ Here are some of the things I am currently learning more about
 - Computational methods for dynamic general equilibrium models
 - Functional analysis and measure theory
 - Scientific machine learning
+- Cloud computing (`GCP` and `AWS`)
 - Continous-time heterogeneous agent modelling
 
 <!--
