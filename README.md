@@ -9,7 +9,7 @@ Here are some things to know about me
 
 Here are some of the things I am currently learning more about
 
-- Programming. Primarily in `Julia` and `Python`, but slowly learning some `C++`
+- Programming. Primarily in `Julia` and `Python`
 - Computational methods for dynamic general equilibrium models
 - Functional analysis and measure theory
 - Scientific machine learning
