@@ -16,5 +16,7 @@ Here are some of the things I am currently learning more about
 - Cloud computing (`GCP` and `AWS`)
 - Continous-time heterogeneous agent modelling
 
+You are free to use the code for my courses in any way you wish. I have borrowed from so many people that I feel it is only fitting to make things freely available. Normally, I try to provide reference to code that I have used. 
+
 <!--
 **DawievLill/DawievLill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
