@@ -11,10 +11,10 @@ Here are some of the things I am currently learning more about
 
 - Programming. Primarily in `Julia`, `Python` and `R`.
 - Computational methods for dynamic general equilibrium models.
-- Functional analysis and measure theory.
-- Scientific machine learning.
-- Cloud computing (`GCP` and `AWS`).
 - Continous-time heterogeneous agent modelling.
+- Functional analysis and measure theory.
+- Deep learning and scientific machine learning.
+- Cloud computing (`GCP` and `AWS`).
 
 You are free to use the code for my courses in any way you wish. I have borrowed from so many people that I feel it is only fitting to make things freely available. Most of the notes are a work in progress. I try to learn as I put notes together, so there might be mistakes. 
 
